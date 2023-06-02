@@ -1,0 +1,8 @@
+Presentation Link: https://www.canva.com/design/DAFkPj3v8LY/PgZjH_Q6Kp-T1W_zcHVY_w/edit?utm_content=DAFkPj3v8LY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+open the notebook in kaggle
+add the databases as input 
+add database 1 : name
+add database 2 : name 
+
+run All or run section by section to not exceed the RAM limit
